@@ -34,13 +34,13 @@ interests:
 education:
   courses:
     - course: PhD in Field Engineering for the Environment
-      institution: Hokkaido University
+      institution: Hokkaido University, Japan
       year: 2021-present
     - course: MEng in Field Engineering for the Environment
-      institution: Hokkaido University
+      institution: Hokkaido University, Japan
       year: 2021
     - course: B.Tech and M.Tech in Civil Engineering
-      institution: Gautam Buddha University
+      institution: Gautam Buddha University, India
       year: 2016
 
 # Social/Academic Networking
